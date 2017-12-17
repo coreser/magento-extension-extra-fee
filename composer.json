@@ -1,0 +1,6 @@
+{
+    "name": "coreser/magento-extension-extra-fee",
+    "type": "magento-core",
+    "license": ["GNU"],
+    "description": ""
+}
